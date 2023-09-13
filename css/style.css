@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+}
+
+.serviceSection{
+	background-color: #ededed;
+	padding: 70px 0;
+	margin-bottom: 70px;
+}
+.wrapper{
+	display: flex;
+	width: 1200px;
+	margin: auto;
+	margin-right: auto;
+	gap: 35px;
+}
+.service{
+	background-color: white;
+	padding: 30px;
+	width: 400px;
+}
+.news{
+	background-color: white;
+	padding: 30px;
+}
+img{
+	max-width: 100%;
+}
+h2{
+	font-size: 24px;
+	margin: 0;
+}
+p{
+	font-size: 18px;
+	margin: 0;
+}
